@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894151793092",
+    "firebase_url": "https://proj-3ff3c.firebaseio.com",
+    "project_id": "proj-3ff3c",
+    "storage_bucket": "proj-3ff3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894151793092:android:7b61c9ba3082fff0156c91",
+        "android_client_info": {
+          "package_name": "com.example.amy.uploadpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894151793092-9tqt7pqp1v0pi9ls6t2ptsia7ue6ig3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj8R1duE3OnFKLNfA58SWdSq0K5LAO0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894151793092-9tqt7pqp1v0pi9ls6t2ptsia7ue6ig3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
